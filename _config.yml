@@ -1,0 +1,8 @@
+title: "Joo Hyun Tech Blog"
+author: "Joo Hyun Lee"
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
